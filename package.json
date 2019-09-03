@@ -1,0 +1,13 @@
+{
+  "name": "js-tools",
+  "version": "1.0.0",
+  "description": "javascript toolset",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  },
+  "author": "axel10",
+  "license": "MIT"
+}
